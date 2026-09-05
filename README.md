@@ -43,3 +43,20 @@ Install the dependencies:
 
 ```bash
 npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Then open:
+
+```text
+http://localhost:3000
+```
+
+## Author
+
+Nephi Imo
